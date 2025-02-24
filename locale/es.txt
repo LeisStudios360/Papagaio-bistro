@@ -1,0 +1,76 @@
+#: locale=es
+
+## Acción
+
+### PDF
+PopupPDFBehaviour_657AE987_2DA3_2383_41A6_18E6546E09E0.url = files/45684860_3_es.pdf
+
+### URL
+LinkBehaviour_7AB8A526_2DA5_2085_41B5_15993F191E3A.source = https://maps.app.goo.gl/6F2w99bfsaC5iuGQ8
+LinkBehaviour_71684236_2DFC_E085_41C0_209524A00326.source = https://maps.app.goo.gl/6F2w99bfsaC5iuGQ8
+
+## Media
+
+### Audio
+audiores_ADBA5E07_3B09_7054_41B5_DF586105CBCC.mp3Url = media/audio_AFE1E66B_3B07_50DC_41C6_7AF32F3D66C1_es.mp3
+
+### Imágen
+imlevel_7A111AC8_2DA5_618D_41BC_A6B4772C7C10.url = media/popup_75781FAF_2DA5_1F83_41B2_33B6FDD59F2E_es_0_0.webp
+imlevel_7A12DAC8_2DA5_618D_41B8_5A78C6863781.url = media/popup_75781FAF_2DA5_1F83_41B2_33B6FDD59F2E_es_0_1.webp
+
+### Popup Imágen
+
+### Subtítulo
+panorama_0A8D2D62_2D0F_B203_41B3_5D6487FBE5E9.subtitle = Entrada 1
+panorama_06224368_2D1F_F60F_41C2_393724918BBF.subtitle = Fachada
+panorama_0A8C5CCE_2D0E_9203_41B2_BE268F558C9E.subtitle = Salon 1
+panorama_0A8C249C_2D0E_B207_41A3_771F173E94A8.subtitle = Salon 2
+panorama_0A8F2C8D_2D0E_B201_41C4_D2085796BE31.subtitle = Salon 4
+panorama_0A8EFC29_2D0E_9201_41A8_BAF0AE69E4D3.subtitle = Salon 5
+
+### Subtítulos de Audio
+
+### Subtítulos de Video
+
+### Título
+panorama_06224368_2D1F_F60F_41C2_393724918BBF.label = 1
+panorama_0A8EFC29_2D0E_9201_41A8_BAF0AE69E4D3.label = 10
+panorama_04831CDA_2D0F_9203_41BD_3588EA3BB3D0.label = 3
+panorama_0A8D2D62_2D0F_B203_41B3_5D6487FBE5E9.label = 4
+panorama_0A8CD50F_2D0E_9201_41C0_AEE21FB47027.label = 6
+panorama_0A8C5CCE_2D0E_9203_41B2_BE268F558C9E.label = 7
+panorama_0A8C249C_2D0E_B207_41A3_771F173E94A8.label = 8
+panorama_0A8F2C8D_2D0E_B201_41C4_D2085796BE31.label = 9
+video_74A3914E_2D64_E085_41BB_1082C4BE3FAE.label = RPReplay_Final1740229587 2
+
+### Video
+videolevel_AA231018_3B09_707C_41C2_51910664B933.url = media/video_74A3914E_2D64_E085_41BB_1082C4BE3FAE_es.mp4
+videolevel_AA231018_3B09_707C_41C2_51910664B933.posterURL = media/video_74A3914E_2D64_E085_41BB_1082C4BE3FAE_poster_es.jpg
+
+## Skin
+
+### Etiqueta
+Label_60716CC3_2895_7A0A_41B7_247991B4A91F_mobile.text = Papagaio Bistró
+Label_60716CC3_2895_7A0A_41B7_247991B4A91F.text = Papagaio Bistró
+Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6_mobile.text = Restaurante
+Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6.text = Restaurante 
+
+### Imágen
+Image_63719C29_2DFC_E08F_41B2_8A7D819D51A0.url = skin/Image_63719C29_2DFC_E08F_41B2_8A7D819D51A0_es.jpg
+Image_7083559C_2DE7_6385_41C1_DE94237173EB.url = skin/Image_7083559C_2DE7_6385_41C1_DE94237173EB_es.jpg
+Image_7320EECB_288B_761A_41C1_E788859EA8DC.url = skin/Image_7320EECB_288B_761A_41C1_E788859EA8DC_es.png
+Image_73E099CA_2DFD_E38D_41C5_77F415465A35.url = skin/Image_73E099CA_2DFD_E38D_41C5_77F415465A35_es.png
+
+### Texto Multilínea
+HTMLText_7AA54EEA_2DE7_618D_41C4_1B33A6715A49.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>DIRECCION:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>Rúa Pai Crespo, 9, 36800 Redondela, Pontevedra,36800.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;">CONTACTO:886907840</SPAN></SPAN></DIV></div>
+HTMLText_78B7A1F8_2DED_238D_4197_F45C2A3D85E5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>DIRECCION:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>Rúa Pai Crespo, 9, Redondela, Pontevedra,36800.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">CONTACTO:886907840</SPAN></SPAN></DIV></div>
+
+### Tooltip
+Image_7320EECB_288B_761A_41C1_E788859EA8DC.toolTip = Direccioón
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Papagaio Bistro 1
